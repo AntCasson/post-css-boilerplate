@@ -1,7 +1,7 @@
 {
-  "name": "post-css-demo",
+  "name": "nesting-css-post-css",
   "version": "1.0.0",
-  "description": "",
+  "description": "postcss-boilerplate",
   "main": "index.js",
   "scripts": {
     "postcss:watch": "postcss src/style.css --dir public --watch"
